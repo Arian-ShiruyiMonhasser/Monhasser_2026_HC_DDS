@@ -51,3 +51,7 @@ Required R packages:
 [4] Venables, W. N. & Ripley, B. D. (2002). *Modern Applied Statistics with S*. Fourth Edition. Springer, New York. ISBN 0-387-95457-0.
 
 [5] Pedersen T, Crameri F (2023). *scico: Colour Palettes Based on the Scientific Colour-Maps*. R package version 1.5.0, <https://github.com/thomasp85/scico>.
+
+## Acknowledgement
+
+Humbly dedicated to Anna Kolodyazhna from Donetsk! 
