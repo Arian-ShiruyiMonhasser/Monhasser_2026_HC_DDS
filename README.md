@@ -54,4 +54,4 @@ Required R packages:
 
 ## Acknowledgement
 
-Humbly dedicated to Anna Kolodyazhna from Donetsk! 
+Humbly dedicated to my favourite flatmate, Anna Kolodyazhna from Donetsk! 
