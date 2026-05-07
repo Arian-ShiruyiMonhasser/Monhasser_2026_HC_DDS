@@ -4,7 +4,7 @@ Hydraulic conductivity dynamic discrete states (HC_DDS) model implementation in 
 
 This repository contains the numerical implementation and post-processing workflow developed for:
 
-> Hinz, C., Monhasser, A., and Wachsmuth, G.  
+> Monhasser, A, Wachsmuth, G. , Hinz, C.  
 > "Event-based changes in hydraulic properties of surface soils in semi-arid regions may generate surface runoff regimes at decadal timescales"
 
 ## Repository structure
